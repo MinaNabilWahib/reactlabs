@@ -1,0 +1,7 @@
+Country,Code,TwoWheelerHours,TwoWheelerFatalities,CyclistsHours,CyclistsFatalities,PedestrianHours,PedestrianFatalities,CarPassengersHours,CarPassengerFatalities
+Austria,AT,86,92,136,48,351,73,3840,219
+France,FR,542,734,391,162,2245,559,26413,2022
+Germany,DE,689,604,2526,393,6547,490,33206,1719
+Great Britain,GB,175,319,443,102,4014,448,24286,923
+Netherlands,NL,50,64,1077,132,1042,44,5745,293
+United States,US,964,5337,1303,783,10218,5977,177067,25537

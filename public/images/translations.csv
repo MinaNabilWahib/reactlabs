@@ -1,0 +1,119 @@
+tKey,value,countryCode
+home_theStudy,The Study,US
+home_aim,The aim of this study is to understand your intuitions about the possible impact of self-driving cars on road safety. We will show you some solutions{comma} test your understanding{comma} and ask about your opinions. The study will take approximately 5 minutes to complete{comma} and you will receive 85 cents.,US
+home_participation,Your participation in this study is completely voluntary and you may refuse to participate or you may choose to withdraw at any time without penalty or loss of benefits to which you are otherwise entitled.,US
+home_who,This study is a research project of the Max Planck Institute (MPI) for Human Development. The data collected will be used for research purposes only.,US
+home_trafic,Traffic accidents in the world of self-driving cars,US
+home_eliminate,Self-driving cars cannot eliminate all traffic accidents{comma} but they can still decrease the number of casualties on the road. Fewer pedestrians will die{comma} fewer bicyclists will die{comma} fewer motorcyclists will die{comma} and fewer car passengers will die.,US
+home_question,The question{comma} though{comma} is how much fewer people will die in each of these categories. The way we program the self-driving cars will decide which category of users will profit the most from the added safety of self-driving cars.,US
+home_example,For example{comma} we could program the cars to be especially protective of pedestrians{comma} in which case much fewer pedestrians will die{comma} but not so much fewer bicyclists{comma} motorcyclists{comma} or car passengers. But we could also make other decisions.,US
+home_decisions,We will show you three possible decisions{comma} and ask how much you like them.,US
+continue,Continue,US
+consent_statement,Consent statement,US
+consent_nature,The nature and purpose of this research have been sufficiently explained and I agree to participate in this study. I understand that I am free to withdraw at any time.,US
+consent_please,Please consent by selecting the checkbox below. Otherwise{comma} please exit the study at this time.,US
+consent_agree,I agree to participate in this study,US
+start,Start,US
+intro_title,Introduction,US
+intro_before,Before we begin{comma} please note that the numbers we are about to show you come from a sample of few representative countries,US
+intro_additional,Additionally{comma} we assume that self-driving cars will reduce the number of road deaths ,US
+intro_half,by half.,US
+beforeSelfDriving,Before self-driving cars,US
+roadUsage,This is how much the road is used by different categories of people,US
+totalPersonHours,Total persons-hours,US
+dieTitle,This is how many people die in traffic accidents each year,US
+totalFatalitiesText,Total fatalities,US
+afterSelfDriving,After self-driving cars,US
+solutionText,SOLUTION,US
+solution1Description,Lorem ipsum dolor sit amet{comma} consectetur adipisicing elit.,US
+understandingTest,Understanding Test,US
+pleaseReadAndAnswer,Please read and answer the following questions carefully.,US
+solution1Question1,What is the new number of pedestrian deaths{comma} compared to what it was before self-driving cars?,US
+theSameAsBefore,The same as before,US
+lessThanBefore,Less than before,US
+moreThanBefore,More than before,US
+solution1Question2,Was the number of fatalities reduced for all four categories of the road users after self-driving cars are introduced?,US
+unclear,Unclear,US
+noText,No,US
+yesText,Yes,US
+solution1Question3,Who uses the road the least?,US
+carPassengersText,Car passengers,US
+pedestrianText,Pedestrians,US
+motorcyclistsText,Motorcyclists,US
+yourOpinionText,Your Opinion,US
+noteRightWrong,Note that there are no right or wrong answers to these questions and what we are looking for are your honest opinions.,US
+howFairText,How fair do you think this solution will be to all the users of the road?,US
+unfairLabelText,1 � COMPLETELY UNFAIR,US
+fairLabelText,9 � COMPLETELY FAIR,US
+cyclistsText,Cyclists,US
+twoWheelersText,Two-wheelers,US
+savedPeopleText,SAVED POEPLE,US
+solutionsSaw,Here are three solution you just saw:,US
+imagineSave,Imagine we could save half of these people.,US
+whoToSave,Who should we save?,US
+willingToBuy,How willing will you be to buy a self-driving car for each of these solutions?,US
+extremelyUnwilling,1 �EXTREMELY UNWILLING,US
+extremelyWilling,9 � EXTREMELY WILLING,US
+finalSection,The Final Section,US
+finalSectionDescription,This is the final section of this survey where we would like to learn a few details about you.,US
+whichTransport,Which mode of transport you personally use the most often?,US
+cyclingText,Cycling,US
+walkingText,Walking,US
+carsText,Passengers cars{comma} buses{comma} trucks{comma} and SUVs,US
+twoWheelerText,Two-wheeler,US
+genderQuestion,What is your gender?,US
+femaleText,Female,US
+maleText,Male,US
+otherText,Other,US
+ageQuestion,What is your age?,US
+politicalViewsQuestion,What are your political views?,US
+conservativeText,1 � CONSERVATIVE,US
+progerssiveText,9 � PROGRESSIVE,US
+religionQuestion,What are your religious views?,US
+notReligiousText,1 � NOT RELIGIOUS,US
+religiousText,9 � VERY RELIGIOUS,US
+educationQuestion,What is your highest level of education?,US
+lessThanHighSchool,Less than a High School Diploma,US
+highSchool,High School Diploma,US
+vocational,Vocational Training,US
+attendedCollage,Attended College,US
+bachelor,Bachelor Degree,US
+graduate,Graduate Degree,US
+feedbackTitle,If you had any other feedback or thoughts{comma} you can enter them here:,US
+finishText,Finish,US
+weAreDone,We Are Done!,US
+doneDescription,This test was part of a research study on the ethics of self-driving cars and what the general public thinks about some of the policies that the government might adopt.,US
+exitText,Exit,US
+dataFrom,You are seeing the data for,US
+totalSavedPeople,Total saved people,US
+landingStudy,The self-driving cars safety study,US
+landingShare,Share,US
+landingDescription,Maecenas aliquet massa dolor{comma} nec dignissim orci fringilla eu. Proin ut massa et nunc fermentum posuere sit amet ut magna. Integer a commodo enim. Aliquam erat volutpat. Pellentesque egestas{comma} elit a molestie scelerisque{comma} mi odio mollis sem{comma} id posuere diam nisi at sem. Fusce mattis sem laoreet{comma} rutrum dui nec{comma} pharetra neque.,US
+landingStaticSurvey,Static Survey,US
+staticDescription,Lorem ipsum dolor sit amet{comma} consectetur adipiscing elit. Nulla placerat turpis ut ornare commodo. Cras malesuada{comma} turpis eget fermentum rhoncus{comma} odio risus sollicitudin risus{comma} et placerat tortor magna eu mauris.,US
+staticEstimated,Estimated Time: 20 min,US
+staticButtonText,Start Static Survey,US
+landingInteractiveSurvey,Interactive Survey,US
+interactiveDescription,Lorem ipsum dolor sit amet{comma} consectetur adipiscing elit. Nulla placerat turpis ut ornare commodo. Cras malesuada{comma} turpis eget fermentum rhoncus{comma} odio risus sollicitudin risus{comma} et placerat tortor magna eu mauris.,US
+interactiveEstimated,Estimated Time: 10 min,US
+interactiveButtonText,Start Interactive Survey,US
+dilema,Self-driving cars dilemma,US
+programQuestion,Where would you program the autonomous vehicle to position itself it this situation?,US
+dragText,Drag the white car or click on one of the arrows and check results below.,US
+expectedNumber,Expected number of ,US
+fatalities,fatalities,US
+and,and,US
+injuries,injuries,US
+perOneMillion, per 1 million cases,US
+truckDriver,Truck Driver,US
+totalInjuries,Total injuries,US
+submit,Submit,US
+solution2Description,Lorem ipsum dolor sit amet{comma} consectetur adipisicing elit.2,US
+solution3Description,In this strategy{comma} all road users have equivalent risk per hour traveled. Overall risk is reduced by half.,US
+solution2Question1,What is the new number of pedestrian deaths{comma} compared to what it was before self-driving cars?,US
+solution2Question2,Was the number of fatalities reduced for all four categories of the road users after self-driving cars are introduced?,US
+solution2Question3,Who uses the road the least?,US
+solution3Question1,What is the new number of pedestrian deaths{comma} compared to what it was before self-driving cars?,US
+solution3Question2,Was the number of fatalities reduced for all four categories of the road users after self-driving cars are introduced?,US
+solution3Question3,Who uses the road the least?,US
+countryLabel,country,US
